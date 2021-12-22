@@ -1,0 +1,2 @@
+# Qutebrowser
+Mijn qutebrowser config
